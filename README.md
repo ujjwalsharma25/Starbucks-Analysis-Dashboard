@@ -22,5 +22,6 @@ Advanced DAX (Data Analysis Expressions) calculated measures were written to han
 The data model reveals several compelling baselines regarding the Starbucks global beverage portfolio. Across all 33 analyzed beverages, the baseline average caffeine concentration sits at exactly 81 mg, while the average energy density stands at 194.30 kcal per drink, heavily driven by syrup-dense customization options. The single most significant outlier in the entire dataset is the Classic Espresso category, which dramatically outpaces every other beverage family on the menu by commanding a peak average caffeine content of 293.75 mg. Ultimately, the data proves that the core menu footprint is overwhelmingly dominated by the Coffee and Frappuccino blended categories, which represent the main volume drivers for the global business.
 
 ---
-**👨‍💻 Author:** Mohan Kumar | Data Science Student & Analytics Explorer
-🔗 [Connect with me on LinkedIn](https://linkedin.com) | [Explore my repositories on GitHub](https://github.com)
+**👨‍💻 Author:** UJJWAL SHARMA | Data Engineering Student & Analytics Explorer
+
+**🔗[Connect with me on LinkedIn]** (https://www.linkedin.com/in/ujjwal-sharma-934100379)
